@@ -1,0 +1,7 @@
+{
+    "name": "3d-graphics-learning",
+    "version-string": "1.0.3",
+    "dependencies": [
+        "sdl2"
+    ]
+}
